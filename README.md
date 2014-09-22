@@ -1,36 +1,36 @@
 ##Vortex
-VortexÊÇÒ»¸öAPPÍÆËÍÆ½Ì¨£¬È«Òì²½·Ç×èÈûServer¡£
+Vortexæ˜¯ä¸€ä¸ªAPPæ¨é€å¹³å°ï¼Œå…¨å¼‚æ­¥éé˜»å¡Serverã€‚
 
 
-###·¢ÆğÈË
-* longniao (ÁúÄñ) / longniao@gmail.com
-
-
-###Î¬»¤Õß
+###å‘èµ·äºº
 * longniao [https://github.com/longniao]
 
 
-##ÌØÉ«
-
-    1) ĞÔÄÜÇ¿º· (´ó²¿·Öapi¿ÉÒÔÔÚ10msÄÚ´¦ÀíÍê)
-    2) ÊµÊ±ÍÆËÍ
-    3) ¶ÓÁĞÖ§³Ö  (beanstalk, redis)
+###ç»´æŠ¤è€…
+* longniao [https://github.com/longniao]
 
 
-##Ïà¹ØÀ©Õ¹
+##ç‰¹è‰²
 
-    *Éú²ú»·¾³ÍÆ¼ö£º
-    1) https://github.com/matyhtf/swoole  (¸ßĞÔÄÜsocketÄ£¿é)
-    2£©https://github.com/shenzhe/phpredis    (redis£¬ÓÃÓÚcache,connµÈ)
-
-    *Ê¹ÓÃreact×ösocket£¬ĞèÒª£º
-    1) ±àÒëÑ¡Ïî¼ÓÉÏ: --enable-pcntl --enable-sockets
-    2) http://pecl.php.net/package/libevent   (libevent¿â)
-    3) https://github.com/krakjoe/pthreads     (¶àÏß³ÌÖ§³Ö£¬¿ÉÑ¡)
+    1) æ€§èƒ½å¼ºæ‚ (å¤§éƒ¨åˆ†apiå¯ä»¥åœ¨10mså†…å¤„ç†å®Œ)
+    2) å®æ—¶æ¨é€
+    3) é˜Ÿåˆ—æ”¯æŒ  (beanstalk, redis)
 
 
-##»·¾³ÒªÇó
+##ç›¸å…³æ‰©å±•
+
+    *ç”Ÿäº§ç¯å¢ƒæ¨èï¼š
+    1) https://github.com/matyhtf/swoole  (é«˜æ€§èƒ½socketæ¨¡å—)
+    2ï¼‰https://github.com/shenzhe/phpredis    (redisï¼Œç”¨äºcache,connç­‰)
+
+    *ä½¿ç”¨reactåšsocketï¼Œéœ€è¦ï¼š
+    1) ç¼–è¯‘é€‰é¡¹åŠ ä¸Š: --enable-pcntl --enable-sockets
+    2) http://pecl.php.net/package/libevent   (libeventåº“)
+    3) https://github.com/krakjoe/pthreads     (å¤šçº¿ç¨‹æ”¯æŒï¼Œå¯é€‰)
+
+
+##ç¯å¢ƒè¦æ±‚
 PHP >= 5.4
-##Ğ­Òé
+##åè®®
 
 MIT license
